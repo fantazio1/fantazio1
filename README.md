@@ -1,6 +1,5 @@
 ## Welcome!
 
-I'm a frontend engineer who focuses in performance, accessibility, clean looks and always follow best practices.
+I’m a software engineer with 2+ years of experience developing full-fledged software solutions using the latest technologies, including TypeScript, React, and Python.
 
-While I have professional experience with TypeScript, React and Redux, I diversify my skillset and expand my horizons by constantly exploring new technologies and tools!
-I believe that curiosity and dedication in constant learning are necessary requirements for great software engineers.
+The driving force behind my success is my curiosity and a constant desire to challenge myself by exploring technologies and tools outside my comfort zone
